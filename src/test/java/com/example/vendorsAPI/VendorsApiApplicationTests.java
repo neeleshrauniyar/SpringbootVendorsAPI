@@ -1,10 +1,10 @@
-package com.example.vedorsAPI;
+package com.example.vendorsAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VedorsApiApplicationTests {
+class VendorsApiApplicationTests {
 
 	@Test
 	void contextLoads() {
